@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/450fa558-5a4c-472d-9963-a57cd115d01b)# API de Pedidos
+# API de Pedidos
 
 Este repositório contém uma API RESTful para gerenciamento de pedidos de uma loja. A API permite criar, buscar, atualizar e deletar pedidos.
 
@@ -90,5 +90,7 @@ Use as seguintes configurações:
 6. **Licença**: Informação sobre a licença do projeto.
 
 Esse modelo de **README.md** torna seu repositório bem documentado, facilitando a compreensão e o uso da API.
+
+
 
 
